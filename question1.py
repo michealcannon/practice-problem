@@ -1,4 +1,4 @@
-i = int(input("Please enter a positive integer"))
+i = int(input("Please enter a positive integer "))
 n = i - 1
 while n > 0:
     i = i + n
